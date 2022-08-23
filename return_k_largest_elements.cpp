@@ -1,6 +1,6 @@
 //Given an array and an integer k we have to return k largest integers
 //ip=[7,10,4,3,20,15]
-//op=20,15,10
+//op=20,15,10;
 #include<iostream>
 #include<queue>
 #include<vector>
